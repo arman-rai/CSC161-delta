@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 
 int main () {
 
@@ -16,5 +17,7 @@ int main () {
     std::cin >> mobileNumber;
 
     std::cout << "i'm " << fullName << " call me baby " << mobileNumber << std::endl;
+    std::cout << "Size of int : " << sizeof(int) << std::endl;
+
     return 0;
 }
