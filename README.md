@@ -9,3 +9,7 @@ Online compilers:
 
  Operator precedence and associativity :
   * https://en.cppreference.com/w/cpp/language/operator_precedence
+
+
+Misc:
+* [using-namespace-std-considered-bad-practice](https://www.geeksforgeeks.org/using-namespace-std-considered-bad-practice/)
