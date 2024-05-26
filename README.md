@@ -6,5 +6,5 @@ Online compilers:
   * https://coliru.stacked-crooked.com/
   * https://www.onlinegdb.com/
 
- Operator precedence and associativity 
-  https://en.cppreference.com/w/cpp/language/operator_precedence
+ Operator precedence and associativity :
+  * https://en.cppreference.com/w/cpp/language/operator_precedence
