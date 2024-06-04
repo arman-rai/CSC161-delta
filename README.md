@@ -13,3 +13,7 @@ Online compilers:
 
 Misc:
 * [using-namespace-std-considered-bad-practice](https://www.geeksforgeeks.org/using-namespace-std-considered-bad-practice/)
+
+
+Keywords:
+*  :: scope resolution operator
