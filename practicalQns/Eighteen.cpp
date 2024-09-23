@@ -1,3 +1,9 @@
+// Create a class Time with private integer data members hour, minute, second. Include public methods
+// to read and display data of the objects. Overload the friend function addTime() to pass the object of
+// Time by value and address. One overloaded addTime() returns the resultant object by value and another
+// by address.
+
+
 #include <iostream>
 
 using namespace std;
